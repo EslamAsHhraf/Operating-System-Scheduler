@@ -84,7 +84,7 @@ sudo dnf install gcc
 or  <a href="https://github.com/AdhamAliAbdelAal/OS-Project/tree/master/Phase%202/code">Phase 2 </a> , as you want.
 
 </li>
-<li>Put input in file "processes.txt" or run file "test_generator.c.c" and it will put random input </li>
+<li>Put input in file "processes.txt" or run file "test_generator.c" and it will put random input </li>
 <br>
 <ul><li>Phase 1</li>
 <div  align= "center"  >
