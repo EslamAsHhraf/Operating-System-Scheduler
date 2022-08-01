@@ -14,7 +14,7 @@
 
 ## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
 
-- <a href ="#about"> 📙 overview</a>
+- <a href ="#about"> 📙 Overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
 - <a href ="#Path"> 🎯 Path of the program</a>
 - <a href ="#Work"> 🧱  Data Structures Used </a>
@@ -147,7 +147,7 @@ gcc process_generator.c -o ex
  </div>
 <br>
 <li>
-There are 2 output file "scheduler.Log" and "scheduler.perf". "memory.log" id created in phase 2.
+There are 2 output file "scheduler.Log" and "scheduler.perf". "memory.log" is created in phase 2.
 <ul>
 <br>
 <li>scheduler.Log
