@@ -42,8 +42,8 @@ A bad scheduler will make a very bad operating system, so your scheduler should 
 The project has 2 phases.</li>
 <br>
 
- - <a href="https://github.com/AdhamAliAbdelAal/OS-Project/blob/master/Project%20Phase%201.pdf">Project Phase 1</a>
- - <a href="https://github.com/AdhamAliAbdelAal/OS-Project/blob/master/Project%20Phase%202.pdf">Project Phase 2</a>
+ - <a href="https://github.com/AdhamAliAbdelAal/OS-Project/blob/master/Docs/Project%20Phase%201.pdf">Project Phase 1</a>
+ - <a href="https://github.com/AdhamAliAbdelAal/OS-Project/blob/master/Docs/Project%20Phase%202.pdf">Project Phase 2</a>
  
 <br>
 <li> Build using <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C lnaguage</a>.</li>
