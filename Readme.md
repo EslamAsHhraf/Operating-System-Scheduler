@@ -1,6 +1,6 @@
 <div align= >
 
-# <img align=center width=75px height=75px src="https://media3.giphy.com/media/OEDg5jvoZzYbBxqoRL/giphy.gif?cid=ecf05e472c40ymhxtl46b0gpa6vaexyzeqph7p3eov22ozpw&rid=giphy.gif&ct=s"> Operating System Scheduler
+# 🖥️ Operating System Scheduler
 
 
 </div>
@@ -12,7 +12,7 @@
     <br> 
 </p>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
@@ -27,7 +27,7 @@
 
  <a id = "about"></a>
 
-## <img align="center"  width =60px  height =70px src="https://media2.giphy.com/media/Yn4nioYWSZMqiPNVuD/giphy.gif?cid=ecf05e47m5h78yoqhdkg8pq54o5qsxhdoltjxyfe08d4vxvg&rid=giphy.gif&ct=s"> Overview
+## 📙 Overview
 <br>
 <ul> 
 <li>
@@ -51,7 +51,7 @@ The project has 2 phases.</li>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started 
+## 🚀 Get Started 
 
 <ol>
 <li>Clone the repository.
@@ -77,7 +77,7 @@ sudo dnf install gcc
 <hr style="background-color: #4b4c60"></hr>
 
 
-## <img align= "center" width=80px height=80px src="https://media2.giphy.com/media/dAu3qBzpmXstCTimDv/giphy.gif?cid=ecf05e475rq4hwxg7usfm1go2dc1pl5gpbnvo1izu6ph4yuh&rid=giphy.gif&ct=s"> Path of the program <a id ="Path"></a>
+## 🗺️ Path of the program <a id ="Path"></a>
 
 <ol>
 <li>Go to folder <a href="https://github.com/AdhamAliAbdelAal/OS-Project/tree/master/Phase%201/code">Phase 1 </a>
@@ -181,7 +181,7 @@ There are 2 output file "scheduler.Log" and "scheduler.perf". "memory.log" is cr
 <hr style="background-color: #4b4c60"></hr>
  <a id="Work"> </a>
 
-## <img align= center width=70px height=70px src="https://user-images.githubusercontent.com/71986226/178469374-15498392-26a1-4ba0-99d7-9ce899c131f0.gif"> Data Structures Used 
+## 🏗️ Data Structures Used 
 <br>
 <ol>
 <li>Queue</li>
@@ -221,7 +221,7 @@ There are 2 output file "scheduler.Log" and "scheduler.perf". "memory.log" is cr
 <hr style="background-color: #4b4c60"></hr>
  <a id ="Algorithms"></a>
 
-## <img align= "center" width=70px height=70px src="https://media0.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif?cid=ecf05e47axkic0jguefzmfvqv5ncejylr7hhml03ciklbmdw&rid=giphy.gif&ct=s">Algorithms Explanation
+## 🧠 Algorithms Explanation
 <br>
 <ol>
 <li>HPF
@@ -251,7 +251,7 @@ There are 2 output file "scheduler.Log" and "scheduler.perf". "memory.log" is cr
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Assumptions"></a>
 
-## <img align= "center" width=60px height=70px src="https://media2.giphy.com/media/8pEnqbR2gapFekW4KK/giphy.gif?cid=ecf05e47ire2dp6wrcli5orn0gddraxve7sug4v3753pquxa&rid=giphy.gif&ct=s">Assumptions
+## 📜 Assumptions
 <br>
 <ol>
 <li>
@@ -268,7 +268,7 @@ We made an array of arrivals in the process generator as a shared memory with th
 <hr style="background-color: #4b4c60"></hr>
 <a id="Structure"> </a>
 
-## <img align= center width=60px height=60px src="https://media1.giphy.com/media/igsIZv3VwIIlRIpq5G/giphy.gif?cid=ecf05e47faatmwdhcst7c2d4eontr459hjd35zf3an324elo&rid=giphy.gif&ct=s"> File Structure 
+## 🗃️ File Structure 
 <br>
 <div align= center>
 <img   src="https://user-images.githubusercontent.com/71986226/182103221-e5d5b882-f846-4794-814f-5f42403948a8.png">
@@ -276,7 +276,7 @@ We made an array of arrivals in the process generator as a shared memory with th
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
+## 👑 Contributors <a id ="Contributors"></a>
 
 <table align="center" >
   <tr>
